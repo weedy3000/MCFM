@@ -1,5 +1,5 @@
-# Multimodal Competitive Fusion Model (MCFM)
-Code of Paper MCFM: Multimodal competitive fusion mechanism for sentiment analysis
+# Code of Multimodal Competitive Fusion Model (MCFM)
+MCFM: Multimodal competitive fusion mechanism for sentiment analysis
 DOI:10.1109/TCSS.2025.3598637
 
 Paper Link: https://ieeexplore.ieee.org/document/11165416
@@ -54,5 +54,9 @@ options (optional):
 
 ```
 
-## Side Note
-Please feel free to adopt the code for any combinations of pre-trained models.
+## 🛡️ Copyright
+
+© 2026 [weedy3000]. All rights reserved.
+
+This code is part of our research work and is protected by copyright law.
+Unauthorized reproduction or distribution is prohibited.
