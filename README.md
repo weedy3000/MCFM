@@ -1,6 +1,7 @@
 # Multimodal Competitive Fusion Model (MCFM)
 Code of Paper MCFM: Multimodal competitive fusion mechanism for sentiment analysis
 DOI:10.1109/TCSS.2025.3598637
+
 Paper Link: https://ieeexplore.ieee.org/document/11165416
 ## Environment setup
 1. create a new environment using conda or pip
