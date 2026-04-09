@@ -62,12 +62,13 @@ If you use MCFM in a scientific publication, we would appreciate citations to th
   author={Xing, Mali and Zhai, Zilang and Deng, Muqing and Cai, Qianqian and Ren, Hongru and Wang, Tian},
   journal={IEEE Transactions on Computational Social Systems}, 
   title={MCFM: Multimodal Competitive Fusion Mechanism for Sentiment Analysis}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-14},
+  year={2026},
+  volume={13},
+  number={2},
+  pages={1355-1368},
   keywords={Sentiment analysis;Reliability;Feature extraction;Transformers;Semantics;Tensors;Visualization;Accuracy;Reliability engineering;Mutual information;Competition mechanism;feature decomposition;multimodal sentiment analysis (MSA);orthogonal channel attention (OCA)},
   doi={10.1109/TCSS.2025.3598637}}
+
 ```
 
 Copyright © 2026 [weedy3000]. All rights reserved.
